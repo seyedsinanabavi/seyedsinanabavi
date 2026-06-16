@@ -1,48 +1,49 @@
-<h1 align="center">🚀 سید سینا نبوی</h1>
-<h3 align="center">⚡ معمار تجربه‌های دیجیتال | جادوگر فول‌استک</h3>
+<h1 align="center">🚀 Seyed Sina Nabavi</h1>
+<h3 align="center">⚡ Digital Experience Architect | Full-Stack Alchemist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&height=60&lines=%D9%85%D8%AA%D8%AE%D8%B5%D8%B5+%D9%81%D9%88%D9%84%E2%80%8C%D8%A7%D8%B3%D8%AA%DA%A9+%7C+%D9%81%D9%84%D8%A7%D8%AA%D8%B1+%7C+%D9%84%D8%A7%D8%B1%D8%A7%D9%88%D9%84;%D9%85%D8%B9%D9%85%D8%A7%D8%B1+%D8%A7%D9%81%D8%B2%D9%88%D9%86%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C+%D9%88%D8%B1%D8%AF%D9%BE%D8%B1%D8%B3;%D9%85%D8%AA%D8%AE%D8%B5%D8%B5+%D8%B1%D8%A8%D8%A7%D8%AA%E2%80%8C%D9%87%D8%A7%DB%8C+%D8%A7%D8%AA%D9%88%D9%85%D8%A7%D8%B3%DB%8C%D9%88%D9%86;%DB%B4+%D8%B3%D8%A7%D9%84+%D8%AA%D8%AC%D8%B1%D8%A8%D9%87+%D8%AD%D8%B1%D9%81%D9%87%E2%80%8C%D8%A7%DB%8C;%D8%B3%D8%A7%D8%B2%D9%86%D8%AF%D9%87%E2%80%8C%DB%8C+%D8%A2%DB%8C%D9%86%D8%AF%D9%87%D8%8C+%DB%8C%DA%A9+%DA%A9%D9%85%DB%8C%D8%AA+%D8%AF%D8%B1+%D9%87%D8%B1+%D8%A8%D8%A7%D8%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&height=60&lines=Full-Stack+Developer+%7C+Flutter+%7C+Laravel;WordPress+Plugin+Architect;Bot+Automation+Specialist;4%2B+Years+of+Coding+Excellence;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seyedsinanabavi&label=👀%20%D8%A8%D8%A7%D8%B2%D8%AF%DB%8C%D8%AF%20%D9%BE%D8%B1%D9%88%D9%81%D8%A7%DB%8C%D9%84&color=00B4D8&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/seyedsinanabavi?label=🌟%20%D8%AF%D9%86%D8%A8%D8%A7%D9%84%E2%80%8C%DA%A9%D9%86%D9%86%D8%AF%DA%AF%D8%A7%D9%86&style=for-the-badge&color=00B4D8" alt="followers" />
-  <img src="https://img.shields.io/github/stars/seyedsinanabavi?label=⭐%20%D8%B3%D8%AA%D8%A7%D8%B1%D9%87%E2%80%8C%D9%87%D8%A7&style=for-the-badge&color=00B4D8" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=seyedsinanabavi&label=👀%20Profile%20Views&color=00B4D8&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/seyedsinanabavi?label=🌟%20Followers&style=for-the-badge&color=00B4D8" alt="followers" />
+  <img src="https://img.shields.io/github/stars/seyedsinanabavi?label=⭐%20Stars&style=for-the-badge&color=00B4D8" alt="stars" />
+  <img src="https://img.shields.io/badge/🚀-Open%20to%20Work-00B4D8?style=for-the-badge" alt="Open to Work" />
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **کی هستم؟**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 ```yaml
-نام: سید سینا نبوی
-نقش: توسعه‌دهنده فول‌استک و معمار فنی
-موقعیت: 🌍 ایران، کدنویسی برای تمام دنیا
-هدف: "تبدیل مسائل پیچیده به راه‌حل‌های زیبا"
+name: Seyed Sina Nabavi
+title: Full-Stack Developer & Tech Architect
+location: 🌍 Iran, Coding for the World
+mission: "Turning complex problems into elegant solutions"
 
-تجربیات:
-  سال‌های فعالیت: ۴+ سال
-  حوزه‌های تخصصی:
-    - توسعه اپلیکیشن موبایل (فلاتر)
-    - توسعه وب (ویو.جی‌اس، لاراول)
-    - سفارشی‌سازی سیستم‌های مدیریت محتوا (وردپرس)
-    - ربات‌ها و سیستم‌های اتوماسیون
-    - طراحی و پیاده‌سازی API
+experience:
+  years: 4+ Years Professional
+  domains:
+    - 📱 Mobile Development (Flutter)
+    - 🌐 Web Development (Vue.js, Laravel)
+    - 🧩 CMS Customization (WordPress Expert)
+    - 🤖 Bot & Automation Systems
+    - 🔗 API Design & Integration
 
-فلسفه کاری:
-  - "کدی بنویس که خودت در آینده ازت تشکر کنه"
-  - "کد تمیز یک ویژگی نیست، یک الزام است"
-  - "تجربه کاربری اول، تکنولوژی دوم"
+philosophy:
+  - "Write code your future self will thank you for"
+  - "Clean code isn't a feature, it's a requirement"
+  - "User experience first, technology second"
+  
+current_focus:
+  - Advanced Flutter animations & state management
+  - Microservices architecture with Laravel
+  - High-performance WordPress plugins
+  - AI-powered bot solutions
 
-در حال تمرکز روی:
-  - انیمیشن‌های پیشرفته و مدیریت state در فلاتر
-  - معماری میکروسرویس با لاراول
-  - افزونه‌های پرفورمنس وردپرس
-  - ربات‌های هوشمند مبتنی بر AI
-
-علایق:
-  - 🎸 گیتار زدن
-  - 📚 خوندن کتاب‌های تخصصی
-  - 🏋️‍♂️ تناسب اندام و بدنسازی
-  - 🎮 بازی‌های استراتژیک
+interests:
+  - 🎸 Playing Guitar
+  - 📚 Reading Tech Books
+  - 🏋️‍♂️ Fitness & Gym
+  - 🎮 Strategy Games
